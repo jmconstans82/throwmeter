@@ -1,5 +1,5 @@
 # throwmeter
-throwmeter based on MMA8452
+throwmeter based on f5mmx program with MMA8452 
 
 usage:
 this throwmeter based on mma8452 use 2 buttons to change chord value by +/- 1mm step.
